@@ -5,7 +5,7 @@
 Vamos lá! 👩🏽‍💻
 
 <h2>1.Usando let, defina os dados que você irá usar <h2/>
-Neste caso o nosso botão terá um titulo, a cor do titulo e a cor do background.
+<p>Neste caso o nosso botão terá um titulo, a cor do titulo e a cor do background.<p/>
 <img src="https://user-images.githubusercontent.com/102704880/204399996-5438800f-4e09-4347-9e5f-8ab58f12d29f.gif"/>
 
 2. Usando o comando init, inicialize-o
