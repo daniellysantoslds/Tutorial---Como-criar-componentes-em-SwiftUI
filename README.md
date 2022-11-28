@@ -5,6 +5,7 @@
 Vamos lá! 👩🏽‍💻
 1. Crie um novo arquivo do tipo SwiftUI View
 
+
 2. Usando let, defina os dados que você irá usar
 Neste caso o nosso botão terá um titulo, a cor do titulo e a cor do background.
 
