@@ -4,6 +4,7 @@
 
 Vamos lá! 👩🏽‍💻
 1. Crie um novo arquivo do tipo SwiftUI View
+![image](https://user-images.githubusercontent.com/102704880/204400055-7f3dd4e7-a832-4f76-b54b-128de5780c59.png)
 
 
 2. Usando let, defina os dados que você irá usar
