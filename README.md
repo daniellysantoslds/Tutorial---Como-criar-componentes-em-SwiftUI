@@ -4,7 +4,7 @@
 
 Vamos lá! 👩🏽‍💻
 
-1. Usando let, defina os dados que você irá usar
+<h2>1.Usando let, defina os dados que você irá usar <h2/>
 Neste caso o nosso botão terá um titulo, a cor do titulo e a cor do background.
 <img src="https://user-images.githubusercontent.com/102704880/204399996-5438800f-4e09-4347-9e5f-8ab58f12d29f.gif"/>
 
@@ -12,10 +12,10 @@ Neste caso o nosso botão terá um titulo, a cor do titulo e a cor do background
 <img src="https://user-images.githubusercontent.com/102704880/204400461-2e35af32-2d28-445b-a681-70be83be9483.gif"/>
 
 3. Em struct, sete manualmente os dados 
+Inserindo esses dados o nosso componente terá esse padrão visualmente. 
 <img src="https://user-images.githubusercontent.com/102704880/204401040-b1e338eb-d02e-4df5-9600-e6ad80805aba.gif"/>
 
 4. Atribua os dados dentro do botão
-Inserindo esses dados o nosso componente terá esse padrão visualmente. 
 <img src="https://user-images.githubusercontent.com/102704880/204401147-a775910f-f236-4fa9-bf60-ab461c997d38.gif"/>
 
 5. Seu componente está pronto, agora é só copiar e colar onde quiser
