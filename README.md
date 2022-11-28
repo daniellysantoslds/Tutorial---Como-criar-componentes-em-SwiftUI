@@ -21,5 +21,4 @@ Inserindo esses dados o nosso componente terá esse padrão visualmente. 
 <img src="https://user-images.githubusercontent.com/102704880/204401347-b8039c48-f11d-4476-926b-7508897982a9.gif"/>
 
 <h2>6. Editando o componente<h2/>
-Conseguimos editar os dados que foram setados no construtor
 <img src="https://user-images.githubusercontent.com/102704880/204401437-c99158d6-f0b2-4d8e-9193-a4ea4bc57fe6.gif"/>
