@@ -18,7 +18,7 @@ struct ContentView: View {
             HStack {
                 CriandoComponente(tituloBotao: "Oi!", corTitulo: Color.white, corBotao: Color.cyan)
 
-                CriandoComponente(tituloBotao: "Olá!", corTitulo: Color.black, corBotao: Color.gray)
+                CriandoComponente(tituloBotao: "Oláa!", corTitulo: Color.black, corBotao: Color.gray)
 
                 
             }
