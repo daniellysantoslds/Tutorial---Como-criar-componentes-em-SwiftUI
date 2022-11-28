@@ -4,7 +4,7 @@
 
 Vamos lá! 👩🏽‍💻
 
-<h2>1.Usando let, defina os dados que você irá usar <h2/>
+<h3>1.Usando let, defina os dados que você irá usar <h3/>
 <img src="https://user-images.githubusercontent.com/102704880/204399996-5438800f-4e09-4347-9e5f-8ab58f12d29f.gif"/>
 
 <h2>2. Usando o comando init, inicialize-o<h2/>
